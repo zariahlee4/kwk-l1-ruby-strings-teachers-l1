@@ -1,2 +1,2 @@
-authenticate_or_request_with_http_basic
+authenticate_or_request_with_http_ba
 dolantwins.com
